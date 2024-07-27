@@ -1,3 +1,3 @@
-Buat API KEY di Akun Opencagedata (pilih reverse geocoding)
-Buat Url Server PHP di Replit (Download APILocationTrackingnya di Repo)
-Rubah API KEY dan Url Server Replit Di Home.page.ts masing masing 
+1. Buat API KEY di Akun Opencagedata (pilih reverse geocoding)
+2. Buat Url Server PHP di Replit (Download APILocationTrackingnya di Repo)
+3. Rubah API KEY dan Url Server Replit Dibagian ( home.page.ts ) masing masing 
